@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning repositoryy for FitNest Development
+Machine Learning repository for FitNest Development
