@@ -1,0 +1,75 @@
+{
+    "workout":{
+        "pushup":{
+            "name":"Pushup",
+            "description":"Pushup Exercise",
+            "rules" : "elbow",
+            "direction" : "Side",
+            "type":{
+                "start":{
+                    "right_knee":10,
+                    "left_knee":10,
+                    "right_hip":10,
+                    "left_hip":10,
+                    "right_elbow":350,
+                    "left_elbow":350
+                },
+                "end":{
+                    "right_knee":15,
+                    "left_knee":15,
+                    "right_hip":10,
+                    "left_hip":10,
+                    "right_elbow":250,
+                    "left_elbow":250
+                }
+            }
+        },
+        "situp":{
+            "name":"Situp",
+            "description":"Situp Exercise",
+            "direction" : "Side",
+            "rules":"hips",
+            "type":{
+                "start":{
+                    "right_knee":90,
+                    "left_knee":90,
+                    "right_hip":130,
+                    "left_hip":130,
+                    "right_elbow":360,
+                    "left_elbow":360
+                },
+                "end":{
+                    "right_knee":90,
+                    "left_knee":90,
+                    "right_hip":50,
+                    "left_hip":50,
+                    "right_elbow":360,
+                    "left_elbow":360
+                }
+            }
+        },
+        "squat":{
+            "name":"Squat",
+            "description":"Squat Exercise",
+            "direction" : "Side",
+            "type":{
+                "start":{
+                    "right_knee":0,
+                    "left_knee":0,
+                    "right_hip":130,
+                    "left_hip":130,
+                    "right_elbow":360,
+                    "left_elbow":360
+                },
+                "end":{
+                    "right_knee":90,
+                    "left_knee":90,
+                    "right_hip":50,
+                    "left_hip":50,
+                    "right_elbow":360,
+                    "left_elbow":360
+                }
+            }
+        }
+    }
+}
