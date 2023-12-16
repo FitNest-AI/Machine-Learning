@@ -51,6 +51,7 @@
         "squat":{
             "name":"Squat",
             "description":"Squat Exercise",
+            "rules":"knees",
             "direction" : "Side",
             "type":{
                 "start":{
