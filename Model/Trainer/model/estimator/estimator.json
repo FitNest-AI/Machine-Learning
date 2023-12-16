@@ -71,6 +71,222 @@
                     "left_elbow":360
                 }
             }
+        },
+        "Barbel bicep curl":{
+            "name":"Barbel bicep curl",
+            "description":"Barbel bicep curl Exercise",
+            "rules":"elbow",
+            "direction" : "Side/Front",
+            "type":{
+                "start":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":10,
+                    "left_elbow":10
+                },
+                "end":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":160,
+                    "left_elbow":160
+                }
+            }
+        },
+        "hammer curl":{
+            "name":"hammer curl",
+            "description":"hammer curl Exercise",
+            "rules":"elbow",
+            "direction" : "Side/Front",
+            "type":{
+                "start":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":10,
+                    "left_elbow":10
+                },
+                "end":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":180,
+                    "left_elbow":180
+                }
+            }
+        },
+        "hip thrust":{
+            "name":"hip thrust",
+            "description":"hip thrust Exercise",
+            "rules":"hips",
+            "direction" : "Side",
+            "type":{
+                "start":{
+                    "right_knee":150,
+                    "left_knee":150,
+                    "right_hip":130,
+                    "left_hip":130,
+                    "right_elbow":360,
+                    "left_elbow":360
+                },
+                "end":{
+                    "right_knee":100,
+                    "left_knee":100,
+                    "right_hip":25,
+                    "left_hip":25,
+                    "right_elbow":360,
+                    "left_elbow":360
+                }
+            }
+        },
+        "lateral raise":{
+            "name":"lateral raise",
+            "description":"lateral raise Exercise",
+            "rules":"elbow",
+            "direction" : "Side/front",
+            "type":{
+                "start":{
+                    "right_knee":90,
+                    "left_knee":90,
+                    "right_hip":90,
+                    "left_hip":90,
+                    "right_elbow":360,
+                    "left_elbow":360
+                },
+                "end":{
+                    "right_knee":90,
+                    "left_knee":90,
+                    "right_hip":90,
+                    "left_hip":90,
+                    "right_elbow":100,
+                    "left_elbow":100
+                }
+            }
+        },
+        "leg raise":{
+            "name":"leg raise",
+            "description":"leg raise Exercise",
+            "rules":"hips",
+            "direction" : "Side",
+            "type":{
+                "start":{
+                    "right_knee":20,
+                    "left_knee":20,
+                    "right_hip":10,
+                    "left_hip":10,
+                    "right_elbow":360,
+                    "left_elbow":360
+                },
+                "end":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":280,
+                    "left_hip":280,
+                    "right_elbow":360,
+                    "left_elbow":360
+                }
+            }
+        },
+        "pullup":{
+            "name":"pullup",
+            "description":"pullup Exercise",
+            "rules":"elbow",
+            "direction" : "Front",
+            "type":{
+                "start":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":10,
+                    "left_elbow":10
+                },
+                "end":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":160,
+                    "left_elbow":160
+                }
+            }
+        },
+        "russian twist":{
+            "name":"russian twist",
+            "description":"russian twist Exercise",
+            "rules":"hips",
+            "direction" : "Side",
+            "type":{
+                "start":{
+                    "right_knee":90,
+                    "left_knee":90,
+                    "right_hip":120,
+                    "left_hip":120,
+                    "right_elbow":360,
+                    "left_elbow":360
+                },
+                "end":{
+                    "right_knee":90,
+                    "left_knee":90,
+                    "right_hip":90,
+                    "left_hip":90,
+                    "right_elbow":100,
+                    "left_elbow":100
+                }
+            }
+        },
+        "tricep dips":{
+            "name":"tricep dips",
+            "description":"tricep dips Exercise",
+            "rules":"elbow",
+            "direction" : "Side",
+            "type":{
+                "start":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":360,
+                    "left_elbow":360
+                },
+                "end":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":30,
+                    "left_elbow":30
+                }
+            }
+        },
+        "tricep pushdown":{
+            "name":"tricep pushdown",
+            "description":"tricep pushdown Exercise",
+            "rules":"elbow",
+            "direction" : "Side",
+            "type":{
+                "start":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":20,
+                    "left_elbow":20
+                },
+                "end":{
+                    "right_knee":360,
+                    "left_knee":360,
+                    "right_hip":360,
+                    "left_hip":360,
+                    "right_elbow":180,
+                    "left_elbow":180
+                }
+            }
         }
     }
 }
