@@ -1,5 +1,5 @@
 label,Calories,Fat,Carbs,Protein,type
-Biji Wijen Kering Utuh,52.0,4.47,2.11,1.6,1
+Biji Wijen,52.0,4.47,2.11,1.6,1
 Kacang Almond,578.0,50.64,19.74,21.26,1
 Kacang Campuran,876.0,79.95,30.64,23.44,1
 Kacang Kedelai,471.0,25.4,33.55,35.22,1
@@ -32,13 +32,12 @@ Salad Buah,54.0,0.81,12.5,0.63,1
 Semangka,30.0,0.15,7.55,0.61,1
 Stroberi,32.0,0.3,7.68,0.67,1
 Ayam,17.0,0.94,0.0,1.89,0
-Ayam Goreng tanpa Pelapis (Kulit Dimakan),18.0,1.07,0.0,2.0,0
+Ayam Goreng (Kulit Dimakan),18.0,1.07,0.0,2.0,0
 Daging Ayam (Panggang),111.0,2.7,0.0,20.33,0
 Bakso Daging Sapi,57.0,3.69,2.12,3.47,0
 Daging Bebek,132.0,5.95,0.0,18.28,0
 Dada Ayam,195.0,7.72,0.0,29.55,0
 Daging Dada Kalkun,104.0,1.66,4.21,17.07,0
-Daging Babi,363.0,22.83,0.0,36.64,0
 Potongan Daging Domba,226.0,17.55,0.0,15.86,0
 Daging Sapi,288.0,19.54,0.0,26.33,0
 Daging Sapi Giling,276.0,18.58,0.0,25.35,0
@@ -53,12 +52,12 @@ Cumi-cumi,92.0,1.38,3.08,15.58,0
 Gurita,82.0,1.04,2.2,14.91,0
 Udang,7.0,0.12,0.06,1.38,0
 Ikan,84.0,0.92,0.0,17.76,0
-Kakap (Ikan) (Spesies Campuran),100.0,1.34,0.0,20.51,0
+Ikan Kakap (Ikan) (Spesies Campuran),100.0,1.34,0.0,20.51,0
 Ikan Kembung,167.0,9.36,0.0,19.32,0
 Ikan Lele,204.0,12.35,7.26,14.93,0
 Ikan Salmon,146.0,5.93,0.0,21.62,0
-Ikan Sarden dalam Minyak (Kalengan),25.0,1.37,0.0,2.95,0
-Tuna dalam Air (Kalengan),116.0,0.82,0.0,25.51,0
+Ikan Sarden (Kalengan),25.0,1.37,0.0,2.95,0
+Ikan Tuna (Kalengan),116.0,0.82,0.0,25.51,0
 Kepiting,119.0,2.08,0.0,23.64,0
 Kerang,35.0,1.75,1.68,2.9,0
 Lobster,114.0,0.68,1.5,23.99,0
@@ -79,14 +78,14 @@ Kentang Goreng,156.0,8.01,20.33,1.98,1
 Pizza Keju,237.0,10.1,26.08,10.6,0
 Pizza Keju,237.0,10.1,26.08,10.6,0
 Makaroni,220.0,1.29,42.95,8.06,1
-Makaroni atau Mie dengan Keju,493.0,22.84,52.15,19.29,1
+Makaroni Mie Keju,493.0,22.84,52.15,19.29,1
 Mie,219.0,3.3,40.02,7.22,1
 Nasi Putih Instan,191.0,0.83,41.04,3.56,1
 Nasi Goreng,333.0,12.34,41.7,12.47,1
 Nasi Merah,110.0,0.89,22.78,2.56,1
 Nasi Putih,204.0,0.44,44.08,4.2,1
 Spageti,220.0,1.29,42.95,8.06,1
-Biskuit Tawar atau Mentega,212.0,9.78,26.76,4.2,1
+Biskuit Tawar,212.0,9.78,26.76,4.2,1
 Oatmeal,145.0,2.39,25.37,6.06,1
 Roti Gandum,67.0,1.07,12.26,2.37,1
 Roti Bagel,270.0,1.7,53.02,10.52,1
@@ -96,9 +95,9 @@ Roti Pita,124.0,0.54,25.06,4.1,1
 Roti Putih,66.0,0.82,12.65,1.91,1
 Sereal,124.0,1.12,27.4,2.39,1
 Salad Sayuran Hijau Campur,9.0,0.13,1.76,0.84,1
-Salad Ayam atau Kalkun,417.0,31.5,2.55,29.48,1
+Salad Ayam,417.0,31.5,2.55,29.48,1
 Salad Kentang,358.0,20.5,27.92,6.7,1
-Salad Makaroni atau Pasta,358.0,18.82,40.67,6.66,1
+Salad Makaroni,358.0,18.82,40.67,6.66,1
 Salad Ikan Tuna,383.0,18.98,19.29,32.88,1
 Acar,12.0,0.12,2.68,0.4,1
 Bayam,23.0,0.39,3.63,2.86,1
