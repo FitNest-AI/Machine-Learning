@@ -61,7 +61,17 @@ def getWorkout():
 
 def get_recommendation(database:list,workout_list : list,level : str = "easy",
                        target : str = "abs",amount : int = 1):
+    """
+    Parameters :
+        database : database list 
+        workout_list : workout list
+        level : level of the workout (easy,medium,hard)
+        target : target muscle of the workout (abs,chest,etc)
+        amount : amount of recommendation 
+    Return :
+        list of recommendation
     
+    """
     
     #this is some data manipulation thingy
     temporary = []
