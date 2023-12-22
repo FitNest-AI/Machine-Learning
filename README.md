@@ -5,8 +5,8 @@ Machine Learning repository for FitNest Development
 ![](https://github.com/FitNest-AI/Machine-Learning/blob/main/ML-Architecture.png)
 
 ## Dataset
-[Tracker](https://github.com/FitNest-AI/Machine-Learning/tree/main/Datasets/Tracker)
-[Trainer](https://github.com/FitNest-AI/Machine-Learning/tree/main/Datasets/Trainer)
+- [Tracker](https://github.com/FitNest-AI/Machine-Learning/tree/main/Datasets/Tracker)
+- [Trainer](https://github.com/FitNest-AI/Machine-Learning/tree/main/Datasets/Trainer)
 
 ## Machine Learning API
 These Api use FLASK.
