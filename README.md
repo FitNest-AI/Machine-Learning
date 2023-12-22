@@ -10,5 +10,5 @@ Machine Learning repository for FitNest Development
 
 ## Machine Learning API
 These Api use FLASK.
-[Food Recomender](https://github.com/FitNest-AI/Food-Recomender)
-[Workout Recomender](https://github.com/FitNest-AI/Workout-Recomender)
+- [Food Recomender](https://github.com/FitNest-AI/Food-Recomender)
+- [Workout Recomender](https://github.com/FitNest-AI/Workout-Recomender)
